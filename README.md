@@ -5,7 +5,7 @@ Teste para extração de informações de utilização de 5 elevadores em um pr�
 C# .Net 
 
 # Bibliotecas utilizadas
-Newtonsoft.Json para deserealizar o json com os dados da pesquisa do arquivo input.json
+Newtonsoft.Json para desserializar o json com os dados da pesquisa do arquivo input.json
 
 # Formato 
 Console Application
