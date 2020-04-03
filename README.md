@@ -1,11 +1,11 @@
 # TesteControleElevadores
 Teste para extração de informações de utilização de 5 elevadores em um prédio com 16 andares
 
-# Linguagem:
+# Linguagem
 C# .Net 
 
-# Bibliotecas utilizadas: 
-Newtonsoft.Json para deserealizar o json com os dados da pesquisa
+# Bibliotecas utilizadas
+Newtonsoft.Json para deserealizar o json com os dados da pesquisa do arquivo input.json
 
-# Formato: 
+# Formato 
 Console Application
