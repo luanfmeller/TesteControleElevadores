@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleElevadores.App", "ControleElevadores\ControleElevadores.App.csproj", "{4995E152-758D-4F4A-BD57-833866823036}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - App", "0 - App", "{271850C6-A0E6-4AB0-AC05-312CC1ED5B5F}"
+	ProjectSection(SolutionItems) = preProject
+		ControleElevadores\input.json = ControleElevadores\input.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Application", "1 - Application", "{666100F9-F98A-4BEB-873B-0A439384EC44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleElevadores.Application", "ControleElevadores.Appplication\ControleElevadores.Application.csproj", "{742B05E8-4A63-4858-AB88-BC2041B94952}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Domain", "2 - Domain", "{01C9F1B5-BB8A-4334-89B1-50E250EDFC6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlerElevadores.Domain", "ControlerElevadores.Domain\ControlerElevadores.Domain.csproj", "{899348C1-7D3A-4CBE-8524-66FA670605ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4995E152-758D-4F4A-BD57-833866823036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4995E152-758D-4F4A-BD57-833866823036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4995E152-758D-4F4A-BD57-833866823036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4995E152-758D-4F4A-BD57-833866823036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{742B05E8-4A63-4858-AB88-BC2041B94952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{742B05E8-4A63-4858-AB88-BC2041B94952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{742B05E8-4A63-4858-AB88-BC2041B94952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{742B05E8-4A63-4858-AB88-BC2041B94952}.Release|Any CPU.Build.0 = Release|Any CPU
+		{899348C1-7D3A-4CBE-8524-66FA670605ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899348C1-7D3A-4CBE-8524-66FA670605ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899348C1-7D3A-4CBE-8524-66FA670605ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{899348C1-7D3A-4CBE-8524-66FA670605ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4995E152-758D-4F4A-BD57-833866823036} = {271850C6-A0E6-4AB0-AC05-312CC1ED5B5F}
+		{742B05E8-4A63-4858-AB88-BC2041B94952} = {666100F9-F98A-4BEB-873B-0A439384EC44}
+		{899348C1-7D3A-4CBE-8524-66FA670605ED} = {01C9F1B5-BB8A-4334-89B1-50E250EDFC6E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B4F43D3-B8B2-4A94-8596-2FA57B66A191}
+	EndGlobalSection
+EndGlobal

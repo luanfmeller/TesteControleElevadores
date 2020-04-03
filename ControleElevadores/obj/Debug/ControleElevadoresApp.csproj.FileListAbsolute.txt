@@ -1,0 +1,7 @@
+C:\Users\wr5805\Documents\Projetos\ControleElevadores\ControleElevadores\bin\Debug\ControleElevadores.exe.config
+C:\Users\wr5805\Documents\Projetos\ControleElevadores\ControleElevadores\bin\Debug\ControleElevadores.exe
+C:\Users\wr5805\Documents\Projetos\ControleElevadores\ControleElevadores\bin\Debug\ControleElevadores.pdb
+C:\Users\wr5805\Documents\Projetos\ControleElevadores\ControleElevadores\obj\Debug\ControleElevadoresApp.csprojAssemblyReference.cache
+C:\Users\wr5805\Documents\Projetos\ControleElevadores\ControleElevadores\obj\Debug\ControleElevadoresApp.csproj.CoreCompileInputs.cache
+C:\Users\wr5805\Documents\Projetos\ControleElevadores\ControleElevadores\obj\Debug\ControleElevadores.exe
+C:\Users\wr5805\Documents\Projetos\ControleElevadores\ControleElevadores\obj\Debug\ControleElevadores.pdb

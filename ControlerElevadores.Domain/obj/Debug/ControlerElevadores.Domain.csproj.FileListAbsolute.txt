@@ -1,0 +1,5 @@
+C:\Users\wr5805\Documents\Projetos\ControleElevadores\ControlerElevadores.Domain\bin\Debug\ControlerElevadores.Domain.dll
+C:\Users\wr5805\Documents\Projetos\ControleElevadores\ControlerElevadores.Domain\bin\Debug\ControlerElevadores.Domain.pdb
+C:\Users\wr5805\Documents\Projetos\ControleElevadores\ControlerElevadores.Domain\obj\Debug\ControlerElevadores.Domain.csproj.CoreCompileInputs.cache
+C:\Users\wr5805\Documents\Projetos\ControleElevadores\ControlerElevadores.Domain\obj\Debug\ControlerElevadores.Domain.dll
+C:\Users\wr5805\Documents\Projetos\ControleElevadores\ControlerElevadores.Domain\obj\Debug\ControlerElevadores.Domain.pdb
